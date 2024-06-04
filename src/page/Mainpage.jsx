@@ -13,7 +13,7 @@ const Container = styled.div`
     margin-top: 3rem;
     padding-bottom: 3rem;
 `
-//comment to to get this started
+//comment to to get this started.
 const Select = styled.select`
     color: var(--grey);
     display : block;
